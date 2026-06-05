@@ -1,0 +1,6 @@
+{
+  "name": "SDAVerse",
+  "description": "Premium cosmetics ERP and inventory management platform focusing on multisite warehouse, batch tracking, FEFO, barcode scanner, and analytical dashboards.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
